@@ -1,0 +1,8 @@
+numpy:
+pandas
+scikit-learn (sklearn)
+train_test_split 
+TfidfVectorizer 
+SVC (Support Vector Classifier) 
+accuracy_score
+confusion_matrix
